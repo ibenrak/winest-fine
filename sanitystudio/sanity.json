@@ -4,7 +4,7 @@
     "name": "sanity-studio"
   },
   "api": {
-    "projectId": "58sirqzn",
+    "projectId": "76vgjv0n",
     "dataset": "production"
   },
   "plugins": [
@@ -16,9 +16,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
